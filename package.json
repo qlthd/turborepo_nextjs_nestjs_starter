@@ -9,12 +9,11 @@
     "dev:web": "turbo run dev --filter=./apps/web"
   },
   "devDependencies": {
-    "turbo": "^2.4.1",
-    "typescript": "^5.7.3"
+    "turbo": "^2.5.3",
+    "typescript": "^5.8.3"
   },
   "packageManager": "pnpm@10.4.1",
   "engines": {
     "node": ">=20"
   }
-
 }
